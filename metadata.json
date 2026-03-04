@@ -1,0 +1,5 @@
+{
+  "name": "Aegis: AI Disaster Prediction & Response",
+  "description": "A production-ready, scalable system architecture for autonomous disaster forecasting and response using Google Cloud Platform.",
+  "requestFramePermissions": ["geolocation"]
+}
